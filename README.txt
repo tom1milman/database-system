@@ -1,1 +1,1 @@
-Data Structure course project by Tom Milman.
+Data Structures course project by Tom Milman.
